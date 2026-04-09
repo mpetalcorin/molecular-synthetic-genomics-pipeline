@@ -69,7 +69,7 @@ This repository was built to show, in one coherent workflow, how genomic data sc
 This repository **is**:
 
 - a proof-of-concept,
-- a portfolio-quality genomics workflow,
+- a genomics workflow,
 - a teaching and demonstration resource,
 - a synthetic framework for explaining end-to-end genomic analysis.
 
