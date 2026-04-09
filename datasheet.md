@@ -102,9 +102,9 @@ These datasets are appropriate for:
 - proof-of-concept demonstration,
 - teaching computational genomics,
 - showing how different genomics analyses connect,
-- portfolio projects,
+- demonstration projects,
 - testing notebooks and visualizations,
-- explaining genomic inference in plain language.
+- explaining genomic inference.
 
 ## Non-recommended uses
 
